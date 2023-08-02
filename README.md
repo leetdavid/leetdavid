@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 
-- I was born in Seoul, Korea 🇰🇷, and I grew up in Shanghai, China 🇨🇳, and I am now based in Hong Kong 🇭🇰.
+- I was born in 🇰🇷 Seoul, Korea, and I grew up and went to school in 🇨🇳 Shanghai, China, and I am now based in 🇭🇰 Hong Kong.
 - 👋 I'm a Computer Engineering graduate from **HKUST** and a Senior ML Engineer at Bilby
 - 👀 I’m interested in making stuff with my own hands.
 - 🌱 I’m Interested in **Machine Learning Systems Design, but also building cool things that people will actually use**
